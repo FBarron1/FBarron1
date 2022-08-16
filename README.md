@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ... Francisco Barron Razo 
 - 👀 I’m interested in ... cloud security, atomation,   
-- 🌱 I’m currently learning ... AWS, .NET CORE, CISA certifcation requirements  
-- 💞️ I’m looking to collaborate on ... Java, Python, .NET CORE
+- 🌱 I’m currently learning ... Python, Java, and Azure certifcation requirements  
+- 💞️ I’m looking to collaborate on ... Java, Python, and C#
 - 📫 How to reach me ... Fabrron101@gmail.com
 
 
